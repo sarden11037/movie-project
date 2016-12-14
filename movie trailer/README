@@ -1,0 +1,11 @@
+Welcome to the README for the movie trailer web site
+
+1. Code and documentation can be found on Github under the username "sarden11037", repository "movie trailer website demonstration".
+
+2. To run the movie trailer website, open the "fresh_tomatoes.html" file.
+
+3. Media.py file contains the code for the main class blueprint
+
+4. Entertainment_center.py file contains the code of all the class instances created for the movie trailers and related files
+
+5. Fresh_tomatoes.py contains all the html code to build the web site. 
